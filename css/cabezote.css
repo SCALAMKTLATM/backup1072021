@@ -1,0 +1,73 @@
+.contenedor{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+
+.arriba{
+    position: absolute;
+    top: 260px;
+    left: 50px;
+}
+
+
+.texto-encima{
+    position: absolute;
+    top: 290px;
+    left: 50px;
+}
+
+
+.abajo{
+    position: absolute;
+    top: 340px;
+    left: 50px;
+
+}
+
+.abajo2{
+    position: absolute;
+    top: 370px;
+    left: 50px;
+
+}
+
+.abajo3{
+    position: absolute;
+    top: 400px;
+    left: 50px;
+
+}
+
+.abajo4{
+    position: absolute;
+    top: 430px;
+    left: 50px;
+
+}
+
+.abajo5{
+    position: absolute;
+    top: 480px;
+    left: 50px;
+
+}
+
+.botonEafit {
+    color: #fff !important;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 0.5em 1.2em;
+    background: rgba(0,0,0,0);
+    border: 2px solid;
+    border-color: #00A5D9;
+    transition: all 0.6s ease;
+    position: relative;
+    font-family: 'Roboto Condensed', sans-serif;
+    cursor: pointer;
+  }
+  .botonEafit:hover {
+    background: #ecb414;
+    border-color: #ecb414;
+    color: #fff !important;
+  }

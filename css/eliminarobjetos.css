@@ -1,0 +1,33 @@
+/* Responsive Design - adaptable a dispositivos moviles*/
+
+@media screen and (min-width: 800px){
+
+
+
+    .filtroscursos {
+display: none;
+    }
+
+}
+
+
+
+
+@media screen and (max-width: 800px){
+
+    .portfolio {
+        display: none;
+            }
+
+}
+
+
+
+
+@media screen and (max-width: 200px){
+
+    .portfolio {
+        display: none;
+            }
+
+}
